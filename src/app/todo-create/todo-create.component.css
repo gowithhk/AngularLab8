@@ -1,0 +1,23 @@
+.new_entry_form {
+    margin-bottom: 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;  
+}
+
+.new_entry_form mat-form-field {
+    margin-right: 50px;
+    margin-left: 195px;
+    justify-content: center;
+     display: inline-flex;
+    flex-wrap: wrap; 
+}
+
+.button {
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 46%;
+    margin-right: 10%;
+    
+}
